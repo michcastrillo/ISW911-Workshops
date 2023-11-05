@@ -1,0 +1,27 @@
+{
+    "id": "7CD01C74",
+    "path": "~/Ejemploº/scripts/script5 text mining.R",
+    "project_path": "scripts/script5 text mining.R",
+    "type": "r_source",
+    "hash": "1804784715",
+    "contents": "",
+    "dirty": false,
+    "created": 1698720694377.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "181,21",
+        "scrollLine": "173"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1698721152,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1698721152356,
+    "read_only": false,
+    "read_only_alternatives": []
+}
